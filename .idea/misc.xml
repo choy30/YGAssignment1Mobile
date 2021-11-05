@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/7424Mobile/YeonjunCho-1464544/mobiletest3/app/src/main/res/layout/activity_booking.xml" value="0.5575181159420289" />
+        <entry key="..\:/7424Mobile/YeonjunCho-1464544/mobiletest3/app/src/main/res/layout/activity_list.xml" value="0.2689969604863222" />
+        <entry key="..\:/7424Mobile/YeonjunCho-1464544/mobiletest3/app/src/main/res/layout/activity_login.xml" value="0.5536458333333333" />
+        <entry key="..\:/7424Mobile/mobiletest3/app/src/main/res/drawable/activity_booking.xml" value="0.5882051282051282" />
+        <entry key="..\:/7424Mobile/mobiletest3/app/src/main/res/drawable/boxfillshape.xml" value="0.5296296296296297" />
+        <entry key="..\:/7424Mobile/mobiletest3/app/src/main/res/drawable/boxshape.xml" value="0.5882051282051282" />
+        <entry key="..\:/7424Mobile/mobiletest3/app/src/main/res/layout/activity_booking.xml" value="0.4302536231884058" />
+        <entry key="..\:/7424Mobile/mobiletest3/app/src/main/res/layout/activity_check_book.xml" value="0.5656702898550725" />
+        <entry key="..\:/7424Mobile/mobiletest3/app/src/main/res/layout/activity_list.xml" value="0.43342391304347827" />
+        <entry key="..\:/7424Mobile/mobiletest3/app/src/main/res/layout/activity_login.xml" value="0.44959473150962515" />
+        <entry key="..\:/7424Mobile/mobiletest3/app/src/main/res/layout/activity_main.xml" value="0.4513677811550152" />
+        <entry key="..\:/7424Mobile/mobiletest3/app/src/main/res/layout/activity_nzta_list.xml" value="0.43342391304347827" />
+        <entry key="..\:/7424Mobile/mobiletest3/app/src/main/res/layout/activity_registration.xml" value="0.4513677811550152" />
+        <entry key="..\:/7424Mobile/mobiletest3/app/src/main/res/layout/activity_save_booking.xml" value="0.36614583333333334" />
+        <entry key="..\:/7424Mobile/mobiletest3/app/src/main/res/layout/item_slot.xml" value="0.4270833333333333" />
+        <entry key="..\:/7424Mobile/mobiletest3/app/src/main/res/layout/list_item.xml" value="0.43342391304347827" />
+        <entry key="..\:/7424Mobile/mobiletest3/app/src/main/res/layout/nzta_row.xml" value="0.5" />
+        <entry key="..\:/7424Mobile/mobiletest3/app/src/main/res/layout/row_item.xml" value="0.5656702898550725" />
+        <entry key="..\:/7424Mobile/mobiletest3/app/src/main/res/layout/time_slot.xml" value="0.47192028985507245" />
+        <entry key="..\:/7424Mobile/mobiletest3/app/src/main/res/menu/menu.xml" value="0.9244791666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

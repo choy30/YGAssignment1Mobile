@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">mobiletest3</string>
+    <string-array name="address1">
+        <item>139 Apirana Avenue, Glen Innes</item>
+        <item>33 Cryers Road, Highbrook</item>
+        <item>132 Cavendish Drive, Manukau City Centre</item>
+        <item>46 Portage Road, New Lynn</item>
+        <item>120 Sunnybrae Road, Glenfield</item>
+        <item>2 - 14 Spartan Road, Takanini</item>
+    </string-array>
+    <string-array name="address2">
+        <item>Auckland 1072</item>
+        <item>Auckland 2013</item>
+        <item>Auckland 2104</item>
+        <item>Auckland 0600</item>
+        <item>Auckland 0627</item>
+        <item>Auckland 2105</item>
+    </string-array>
+    <string-array name="contactNumber">
+        <item>09-521 0756</item>
+        <item>09-265 0490</item>
+        <item>09-262 0381</item>
+        <item>09-827 5959</item>
+        <item>09-444 4848</item>
+        <item>09-268 2900</item>
+    </string-array>
+</resources>
